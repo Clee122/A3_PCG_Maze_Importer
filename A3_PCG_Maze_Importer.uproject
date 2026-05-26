@@ -22,12 +22,19 @@
 			]
 		},
 		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
 		},
 		{
-			"Name": "SteamShared",
-			"Enabled": true
+			"Name": "OpenImageDenoise",
+			"Enabled": false
+		},
+		{
+			"Name": "SpeedTreeImporter",
+			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
